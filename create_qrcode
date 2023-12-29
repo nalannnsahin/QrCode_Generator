@@ -70,7 +70,7 @@ input,button {
      </head>
      <body>
               
-  <form id="yazdir">
+  <form>
       <fieldset class="info">
           <label>QRcode Address (link)
           <input type="text"  id="text" onchange="makeCode()"></input>
